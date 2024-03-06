@@ -1,2 +1,2 @@
 #algs
-Modify your readme file
+Project that contains algorithms written in C
